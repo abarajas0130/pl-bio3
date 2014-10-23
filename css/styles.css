@@ -1,0 +1,80 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+img {
+	width: 300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 20px;
+
+	}
+
+li {
+  list-style: none;
+  float: left;
+  margin: 2px 5px 2px 7px;
+
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: dotted;
+  border-left-style: none;
+}
+
+header, {
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em
+
+}
+
+#name {
+	text-align: center;
+	margin: 40px 6px 40px 9px;
+	table-layout: center;
+}
+
+#visual{
+	text-align: center;
+	margin: 10px 6px 10px 9px;
+	table-layout: center;
+}
+#visual, #work, #work1, #work2, #work3, #work4 {
+	text-align: center;
+	margin: 0 6px 0 9px;
+	table-layout: center;
+}
+
+
+#add {
+	 padding-bottom: 50px;
+	 text-align: center;
+}
+
+div {
+	background-color: white;
+	padding-top: 20px;
+	
+}
+
+body {
+	background: url("../img/bg-nyc.png");
+    background-repeat: no-repeat;
+
+
+}
+
+a:link    {color:#000;}  
+a:visited {color:#000;}  
+a:hover   {color:#000;} 
+a:active  {color:#000;}
+
+a {
+	text-decoration: none;
+	margin: 7px;
+}
